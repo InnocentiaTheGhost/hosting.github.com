@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    color: aquamarine;
+    text-decoration: line-through;
+
+}
+
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: bisque;
+
+}
+
+#box1{
+    background: url('https://wallpapercave.com/wp/wp2665214.jpg');
+
+
+}
+
+#box2{
+    background: url('https://wallpapercave.com/wp/wp2599594.jpg');
+}
+
+#box3{
+    background: url('https://th.bing.com/th/id/OIP.c5IHavrnbntQnqpWgorTowHaEo?rs=1&pid=ImgDetMain');
+}
+
+#box4{
+    background: url('https://th.bing.com/th/id/R.b5b7b64e6e73d3ebca2c79aa26a8ae69?rik=hDv1mZReWP%2fDrA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-1VRRliT7hCo%2fVCZxCsKtknI%2fAAAAAAAAEpc%2fZXEfspcVs3Q%2fs1600%2fnatural-nature-backgrounds-1.jpg&ehk=z3nZNTzeSgmsJRnrGOniu5sJUNVxWIO0cQ2JysmiGxU%3d&risl=&pid=ImgRaw&r=0');
+}
+
+#box5{
+    background: url('https://th.bing.com/th/id/R.1c93276723f3207e949c6bdf7f4cc23e?rik=Y7soYV6fCcT2OQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f-NratvUUGcz4%2fT6oARfeMY6I%2fAAAAAAAAAEQ%2fpxmw4SZ51UM%2fs1600%2fcool-beautiful-nature-forest-forlaptop-desktop-wallpaper.jpg&ehk=P6g5MbylJNL%2f2kVovWSJ7yBo4ItUG5hv%2b06AbuLrbLM%3d&risl=&pid=ImgRaw&r=0');
+
+}
+
+#box6{
+    background: url('https://th.bing.com/th/id/R.9b81663a3934071f8de09681cec0684e?rik=DEV7m%2bUbPpmL2A&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fCool-Nature-Background-Images-4523x2590.jpg&ehk=XxAKNdbLqeV84jakVaOYrmZWai83%2bRlxqGS7WF2x2%2bo%3d&risl=1&pid=ImgRaw&r=0');
+}
+
+#box7{
+    background: url('https://th.bing.com/th/id/R.4580c978d0579129e5e33b2668b4b04d?rik=P8mYbAU409jNnQ&pid=ImgRaw&r=0');
+
+}
+
+#box8{
+    background: url('https://wallpapercave.com/wp/NKNjx3S.jpg');
+}
+
+.box{
+    width: 100%;
+    height: 200px;
+}
